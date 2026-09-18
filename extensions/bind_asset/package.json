@@ -1,0 +1,46 @@
+{
+  "$schema": "./@types/schema/package/index.json",
+  "package_version": 2,
+  "name": "bind_asset",
+  "version": "1.0.0",
+  "author": "Cocos Creator",
+  "editor": ">=3.8.8",
+  "scripts": {
+    "preinstall": "node ./scripts/preinstall.js",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "description": "i18n:bind_asset.description",
+  "main": "./dist/main.js",
+  "devDependencies": {
+    "@cocos/creator-types": "^3.8.8",
+    "@types/node": "^18.17.1",
+    "typescript": "^5.8.2"
+  },
+  "contributions": {
+    "menu": [
+      {
+        "path": "i18n:bind_asset",
+        "label": "i18n:bind_asset.show_log",
+        "message": "show-log"
+      },
+      {
+        "path": "i18n:bind_asset",
+        "label": "Bind Assets",
+        "message": "bind-assets"
+      }
+    ],
+    "messages": {
+      "show-log": {
+        "methods": [
+          "showLog"
+        ]
+      },
+      "bind-assets": {
+        "methods": [
+          "bindAssets"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "hami-editor-tools",
+    "package_version": 2,
+    "version": "1.0.0",
+    "description": "Editor tools for Hami scene generation and sprite assignment.",
+    "main": "main.js",
+    "contributions": {
+        "scene": {
+            "script": "./scene.js"
+        },
+        "messages": {
+            "apply-boluo-images": {
+                "methods": [
+                    "applyBoluoImages"
+                ]
+            },
+            "log-hello": {
+                "methods": [
+                    "logHello"
+                ]
+            }
+        },
+        "menu": [
+            {
+                "path": "i18n:menu.extension",
+                "label": "Apply Boluo Images",
+                "message": "apply-boluo-images"
+            }
+        ]
+    }
+}

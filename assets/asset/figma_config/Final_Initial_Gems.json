@@ -1,0 +1,8425 @@
+{
+  "name": "Initial Gems",
+  "x": -545.0,
+  "y": -393.0,
+  "width": 672.0,
+  "height": 1056.0,
+  "children": [
+    {
+      "name": "black/gem",
+      "x": -256.0,
+      "y": -392.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -256.0,
+          "y": -392.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -224.0,
+      "y": -392.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -224.0,
+          "y": -392.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -192.0,
+      "y": -392.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -192.0,
+          "y": -392.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -288.0,
+      "y": -360.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -288.0,
+          "y": -360.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -256.0,
+      "y": -360.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -256.0,
+          "y": -360.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": -360.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": -360.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -192.0,
+      "y": -360.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -192.0,
+          "y": -360.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -160.0,
+      "y": -360.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -160.0,
+          "y": -360.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -384.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -384.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -352.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -352.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -320.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -320.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -288.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -288.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -160.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -160.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -128.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -128.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -96.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -96.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -64.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -64.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": -328.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": -328.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -352.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -352.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -320.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -320.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -256.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -256.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -128.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -128.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -96.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -96.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": -296.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": -296.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -384.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -384.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -320.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -320.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -256.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -256.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -192.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -192.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -128.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -128.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -64.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -64.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": -264.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": -264.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -416.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -416.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -384.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -384.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -288.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -288.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -256.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -256.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -160.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -160.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -64.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -64.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -32.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -32.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": -232.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": -232.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -416.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -416.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -384.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -384.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -352.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -352.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -288.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -288.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -256.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -256.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -224.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -224.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -192.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -192.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -160.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -160.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -96.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -96.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -64.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -64.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -32.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -32.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": -200.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": -200.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -416.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -416.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -384.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -384.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -320.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -320.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -256.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -256.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -192.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -192.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -128.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -128.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -64.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -64.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -32.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -32.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": -168.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": -168.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -384.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -384.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -320.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -320.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -288.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -288.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -224.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -224.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -160.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -160.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -128.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -128.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -64.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -64.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": -136.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": -136.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -384.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -384.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -320.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -320.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -288.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -288.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -224.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -224.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -160.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -160.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -128.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -128.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -64.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -64.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": -104.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": -104.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -544.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -544.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -512.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -512.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -480.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -480.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -384.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -384.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -320.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -320.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -256.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -256.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -224.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -224.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -192.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -192.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -128.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -128.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -64.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -64.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 32.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 32.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 96.0,
+      "y": -72.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 96.0,
+          "y": -72.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -544.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -544.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -512.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -512.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -480.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -480.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -448.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -448.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -416.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -416.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -320.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -320.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -256.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -256.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -224.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -224.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -192.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -192.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -128.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -128.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -32.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -32.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": 0.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": 0.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": 32.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": 32.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 64.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 64.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 96.0,
+      "y": -40.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 96.0,
+          "y": -40.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -544.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -544.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -512.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -512.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -480.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -480.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -448.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -448.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -416.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -416.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -384.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -384.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -320.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -320.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -256.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -256.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -224.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -224.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -192.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -192.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -128.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -128.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -64.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -64.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -32.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -32.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": 0.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": 0.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 32.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 32.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 96.0,
+      "y": -8.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 96.0,
+          "y": -8.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -512.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -512.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -416.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -416.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -384.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -384.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -288.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -288.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -256.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -256.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -224.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -224.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -192.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -192.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -160.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -160.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "yellow/gem",
+      "x": -64.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "yellow/gem",
+          "x": -64.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -32.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -32.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": 24.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": 24.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -384.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -384.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -320.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -320.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -128.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -128.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -64.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -64.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 56.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 56.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -352.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -352.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -288.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -288.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -256.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -256.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -160.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -160.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "brown/gem",
+      "x": -96.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "brown/gem",
+          "x": -96.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": 88.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": 88.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -384.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -384.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -320.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -320.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -288.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -288.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -256.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -256.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -192.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -192.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -128.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -128.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -64.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -64.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 120.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 120.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -352.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -352.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -320.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -320.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -288.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -288.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -160.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -160.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -96.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -96.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 152.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 152.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -512.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -512.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -352.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -352.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -320.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -320.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -256.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -256.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -192.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -192.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -128.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -128.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": 184.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": 184.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -512.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -512.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -480.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -480.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -448.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -448.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -384.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -384.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -352.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -352.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -320.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -320.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -288.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -288.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -160.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -160.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -128.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -128.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -96.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -96.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -64.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -64.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -32.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -32.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": 0.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": 0.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": 32.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": 32.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": 216.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": 216.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -512.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -512.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -448.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -448.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -384.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -384.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -352.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -352.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -256.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -256.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -224.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -224.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -192.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -192.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -128.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -128.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -96.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -96.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": 0.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": 0.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 64.0,
+      "y": 248.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 64.0,
+          "y": 248.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -448.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -448.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -352.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -352.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -320.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -320.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -288.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -288.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -224.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -224.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -96.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -96.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -64.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -64.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -32.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -32.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": 0.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": 0.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 280.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 280.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -448.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -448.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -320.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -320.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -288.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -288.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -256.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -256.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -192.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -192.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -160.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -160.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -64.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -64.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": 0.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": 0.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 312.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 312.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -416.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -416.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -288.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -288.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -256.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -256.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -224.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -224.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -192.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -192.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -160.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -160.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -128.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -128.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -96.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -96.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -64.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -64.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -32.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -32.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 344.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 344.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -416.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -416.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -384.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -384.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -352.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -352.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -320.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -320.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -288.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -288.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -256.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -256.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -192.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -192.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -160.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -160.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -128.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -128.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -96.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -96.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -64.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -64.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -32.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -32.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": 0.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": 0.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 376.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 376.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -416.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -416.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -384.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -384.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -352.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -352.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -320.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -320.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -288.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -288.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -256.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -256.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -224.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -224.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -192.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -192.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -160.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -160.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -128.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -128.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -96.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -96.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -64.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -64.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -32.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -32.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": 0.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": 0.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 408.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 408.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -416.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -416.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -384.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -384.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -352.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -352.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -320.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -320.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -288.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -288.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -256.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -256.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -192.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -192.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -160.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -160.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -128.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -128.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -96.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -96.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -64.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -64.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -32.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -32.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": 0.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": 0.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 440.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 440.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -416.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -416.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -384.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -384.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -352.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -352.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -320.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -320.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -288.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -288.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -256.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -256.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -192.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -192.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -160.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -160.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -128.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -128.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -96.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -96.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -64.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -64.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -32.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -32.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": 0.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": 0.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 472.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 472.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -448.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -448.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -416.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -416.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -384.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -384.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -352.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -352.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -320.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -320.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -288.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -288.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -256.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -256.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -224.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -224.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -192.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -192.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -160.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -160.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -128.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -128.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -96.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -96.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -64.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -64.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -32.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -32.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": 0.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": 0.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 504.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 504.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -480.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -480.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -416.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -416.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -384.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -384.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -352.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -352.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -320.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -320.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -288.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -288.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -256.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -256.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -224.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -224.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -192.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -192.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -160.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -160.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -128.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -128.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -96.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -96.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -64.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -64.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -32.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -32.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 32.0,
+      "y": 536.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 32.0,
+          "y": 536.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -448.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -448.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -384.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -384.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -352.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -352.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -320.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -320.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -288.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -288.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -256.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -256.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -224.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -224.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -192.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -192.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -160.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -160.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -128.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -128.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -96.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -96.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -64.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -64.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": 0.0,
+      "y": 568.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": 0.0,
+          "y": 568.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -416.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -416.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -384.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -384.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -352.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -352.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "white/gem",
+      "x": -320.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "white/gem",
+          "x": -320.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -288.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -288.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -256.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -256.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -224.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -224.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -192.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -192.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "grassgreen/gem",
+      "x": -160.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "grassgreen/gem",
+          "x": -160.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "green/gem",
+      "x": -128.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "green/gem",
+          "x": -128.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -96.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -96.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -64.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -64.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -32.0,
+      "y": 600.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -32.0,
+          "y": 600.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -352.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -352.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -320.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -320.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -288.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -288.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -256.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -256.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "black/gem",
+      "x": -224.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "black/gem",
+          "x": -224.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -192.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -192.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -160.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -160.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -128.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -128.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    },
+    {
+      "name": "cyan/gem",
+      "x": -96.0,
+      "y": 632.0,
+      "width": 30.0,
+      "height": 30.0,
+      "children": [
+        {
+          "name": "cyan/gem",
+          "x": -96.0,
+          "y": 632.0,
+          "width": 30.0,
+          "height": 30.0
+        }
+      ]
+    }
+  ]
+}
