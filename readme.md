@@ -1,4 +1,4 @@
-# Hami Playable 方案设计（业务版）
+# Hami Playable 方案设计
 
 ## 1. 工程解决方案设计
 
